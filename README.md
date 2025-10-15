@@ -41,3 +41,10 @@ Les apprenants travaillent avec les outils modernes utilisés dans l’industrie
 - **AWS Cloud**
 
 ---
+## 🧑‍💻 Méthodologie d’apprentissage
+
+- **Apprentissage par projet** : chaque module comprend des exercices et projets pratiques.  
+- **Collaboration en équipe** : travail en escouades favorisant l’échange et la co-création.  
+- **Application concrète** : mise en œuvre directe des compétences sur des cas réels inspirés du monde professionnel.  
+
+---
