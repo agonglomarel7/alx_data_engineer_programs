@@ -48,3 +48,14 @@ Les apprenants travaillent avec les outils modernes utilisés dans l’industrie
 - **Application concrète** : mise en œuvre directe des compétences sur des cas réels inspirés du monde professionnel.  
 
 ---
+## 💼 Compétences développées
+
+- Conception et gestion de pipelines de données  
+- Traitement de données massives (Big Data)  
+- Orchestration de workflows de données (Airflow)  
+- Conteneurisation (Docker)  
+- Programmation en Python  
+- Cloud et DevOps de base (AWS)  
+- Pensée critique, communication, travail en équipe  
+
+---
