@@ -59,3 +59,11 @@ Les apprenants travaillent avec les outils modernes utilisés dans l’industrie
 - Pensée critique, communication, travail en équipe  
 
 ---
+## 🏆 À la fin du programme
+
+Les participants auront :
+- Un **portfolio de projets concrets** démontrant leurs compétences.  
+- Une **confiance professionnelle accrue** pour occuper des postes d’ingénieur·e en données.  
+- L’accès à une **communauté internationale** de professionnels tech via ALX.  
+
+---
