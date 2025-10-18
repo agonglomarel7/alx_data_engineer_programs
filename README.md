@@ -67,3 +67,11 @@ Les participants auront :
 - L’accès à une **communauté internationale** de professionnels tech via ALX.  
 
 ---
+## 🌍 À propos d’ALX Africa
+
+> **ALX** forme la prochaine génération de leaders technologiques africains.  
+> Avec des programmes reconnus mondialement, ALX offre un apprentissage intensif et pratique à faible coût pour permettre à chacun d’accéder aux carrières du futur.
+
+👉 [www.alxafrica.com](https://www.alxafrica.com)
+
+---
