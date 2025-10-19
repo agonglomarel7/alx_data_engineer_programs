@@ -75,3 +75,7 @@ Les participants auront :
 👉 [www.alxafrica.com](https://www.alxafrica.com)
 
 ---
+## 📄 Licence
+
+Ce projet est diffusé à des fins éducatives et informatives.  
+Tous droits réservés © ALX Africa.
